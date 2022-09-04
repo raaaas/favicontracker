@@ -1,5 +1,5 @@
 {
-    "name": "julesgraus/favicontracker",
+    "name": "raaaas/favicontracker",
     "description": "Enables tracking of users via a favicon tricks. Even when they are incognito. For educational purposes only.",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"JulesGraus\\FaviconTracker\\": "src"}
+        "psr-4": {"raaaas\\favicontracker\\": "src"}
     },
     "require": {
         "laravel/framework": ">=6 <9.2"
@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "JulesGraus\\FaviconTracker\\TrackerProvider"
+                "raaaas\\favicontracker\\TrackerProvider"
             ]
         }
     }
