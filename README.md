@@ -3,7 +3,7 @@ Enables tracking of users via a favicon tricks in your Laravel project.
 Even when they are incognito. For educational purposes only.
 
 ## Installation
-* run ```composer require julesgraus/favicontracker``` in the root of your laravel 6+ project.
+* run ```composer require raaaas/favicontracker``` in the root of your laravel 6+ project.
 * Publish the config file using ```php artisan vendor:publish --tag=fit``` in the root of your laravel project.
 
 ## Usage
