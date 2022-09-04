@@ -12,7 +12,7 @@
         "psr-4": {"raaaas\\favicontracker\\": "src"}
     },
     "require": {
-        "laravel/framework": ">=6 <9.19"
+        "laravel/framework": ">=6 <=9.20"
     },
     "extra": {
         "laravel": {
